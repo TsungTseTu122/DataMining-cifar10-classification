@@ -1,0 +1,4 @@
+# Requires Python 3.11 or higher (3.11.5 used)
+scikit-learn
+pandas
+numpy
