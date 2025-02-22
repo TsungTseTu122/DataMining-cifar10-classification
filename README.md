@@ -8,7 +8,7 @@ The project applies data preprocessing, model selection, and hyperparameter tuni
 ## Repository Structure
 
 This repository is structured to allow users to run the code immediately without needing to move files manually.
-`
+```
 data-mining-project/
 │── README.md                  # Project Overview
 │── requirements.txt            # List of dependencies for installation
@@ -22,7 +22,7 @@ data-mining-project/
 │── reports/
 │   ├── project_proposal.docx    # Initial project proposal
 │   ├── final_report.docx        # Final report summarizing findings
-`
+```
 
 ## Setup
 1. Clone the repository
