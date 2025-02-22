@@ -19,9 +19,8 @@ data-mining-project/
 │   ├── add_train.csv            # Additional training data
 │   ├── test.csv                 # Test dataset without labels
 │── results/         # Where the predicted labels were stored
-│── reports/
-│   ├── project_proposal.docx    # Initial project proposal
-│   ├── final_report.docx        # Final report summarizing findings
+│── project_proposal.docx    
+
 ```
 
 ## Setup
