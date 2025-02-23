@@ -5,11 +5,13 @@ This project is part of the INFS7203 Data Mining course at The University of Que
 
 The project applies data preprocessing, model selection, and hyperparameter tuning to improve classification performance. The final model is evaluated using macro-F1 score.
 
+Note: The actual true labels for the test set were only available to the teaching team and were never revealed to students. However, based on feedback, the macro-F1 score was decent, and this project received a nearly perfect mark (19.8/20) in the assessment.
+
 ## Repository Structure
 
 This repository is structured to allow users to run the code immediately without needing to move files manually.
 ```
-data-mining-project/
+cifar10-data-mining-classification/
 │── README.md                  # Project Overview
 │── requirements.txt            # List of dependencies for installation
 │── src/
