@@ -11,7 +11,7 @@ Note: The actual true labels for the test set were only available to the teachin
 
 This repository is structured to allow users to run the code immediately without needing to move files manually.
 ```
-cifar10-data-mining-classification/
+DataMining-cifar10-classification/
 │── README.md                  # Project Overview
 │── requirements.txt            # List of dependencies for installation
 │── src/
@@ -29,7 +29,7 @@ cifar10-data-mining-classification/
 1. Clone the repository
 `
 git clone https://github.com/TsungTseTu122/DataMining-cifar10-classification.git
-cd data-mining-project
+cd DataMining-cifar10-classification
 `
 2. Set Up a Virtual Environment (If needed to avoid conflict)
 Windows:
